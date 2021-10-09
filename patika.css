@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+div {
+    text-align: center;
+}
+
+
+/* Logo here */
+.logo {
+    display: block;
+    position: relative;
+    left: 38.5%;
+}
+/* Search here */
+.search {
+    background-color: #eee;
+    display: block;
+    position: relative;
+    bottom: 7%;
+    
+}
+/* Input here */
+.inputp {
+    margin: 20px;
+}
+.input {
+    display:inline-block;
+    position: absolute;
+    left: 41.5%;
+    width: 250px;
+    bottom: 20px;
+}
+
+/* Table here */
+table{
+    text-align: center;
+    position: absolute;
+    left: 100px;
+}
+
+.td1 {
+    background-color: #7EE5DA;
+    width: 550px;
+    font-size: 15px;
+}
+
+.td2 {
+    background-color: #70CCC2;
+    width: 250px;
+    font-size: 12px;
+}
+
+.td3 {
+    background-color: #62B3AA;
+    width: 550px;
+    font-size: 16px;
+    font-weight: 100;
+}
+
+/* for p */
+
+.copyright {
+    position: absolute;
+    display: block;
+    left: 44.5%;
+    font-size: 12px;
+}
